@@ -32,6 +32,7 @@ const checkWin = ()=>{
 }
 
 //LOGIC
+// If you want music while playing remove lower comment (//)
 // music.play()
 let boxes = document.getElementsByClassName("box");
     Array.from(boxes).forEach(element =>{
